@@ -1,0 +1,83 @@
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Clothing Store.dll.config
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Clothing Store.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Clothing Store.pdb
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\csc.exe
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\csc.exe.config
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\csc.rsp
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\csi.exe
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\csi.exe.config
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\csi.rsp
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\Microsoft.Managed.Core.targets
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.AppContext.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Collections.Immutable.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Console.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.IO.Compression.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.IO.FileSystem.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.IO.Pipes.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Reflection.Metadata.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Security.AccessControl.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Security.Claims.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Security.Principal.Windows.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.ValueTuple.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Xml.XmlDocument.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Xml.XPath.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\vbc.exe
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\vbc.exe.config
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\vbc.rsp
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\VBCSCompiler.exe
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\VBCSCompiler.exe.config
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Antlr3.Runtime.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Microsoft.Web.Infrastructure.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Newtonsoft.Json.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Diagnostics.DiagnosticSource.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.Helpers.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.Mvc.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.Optimization.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.Razor.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.WebPages.Deployment.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.WebPages.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.WebPages.Razor.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\WebGrease.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.Helpers.xml
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.Mvc.xml
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.Optimization.xml
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.Razor.xml
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.WebPages.xml
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.WebPages.Deployment.xml
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.WebPages.Razor.xml
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Newtonsoft.Json.xml
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Antlr3.Runtime.pdb
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Diagnostics.DiagnosticSource.xml
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing Store.csproj.CoreCompileInputs.cache
+E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing Store.csproj.CopyComplete
+E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing Store.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing Store.pdb
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\EntityFramework.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\EntityFramework.SqlServer.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\EntityFramework.xml
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\EntityFramework.SqlServer.xml
