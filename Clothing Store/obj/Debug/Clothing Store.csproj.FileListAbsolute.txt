@@ -48,6 +48,8 @@ E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\vbc.rsp
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\VBCSCompiler.exe
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\roslyn\VBCSCompiler.exe.config
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Antlr3.Runtime.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\EntityFramework.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\EntityFramework.SqlServer.dll
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Microsoft.AspNet.TelemetryCorrelation.dll
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Microsoft.Web.Infrastructure.dll
@@ -61,6 +63,8 @@ E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.WebPages.Deployme
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.WebPages.dll
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.WebPages.Razor.dll
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\WebGrease.dll
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\EntityFramework.xml
+E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\EntityFramework.SqlServer.xml
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.Helpers.xml
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.Mvc.xml
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Web.Optimization.xml
@@ -73,11 +77,10 @@ E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Antlr3.Runtime.pdb
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Diagnostics.DiagnosticSource.xml
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing_Store.Migrations.InitialModel.resources
+E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing_Store.Migrations.InitialModel1.resources
+E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing Store.csproj.GenerateResource.cache
 E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing Store.csproj.CoreCompileInputs.cache
 E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing Store.csproj.CopyComplete
 E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing Store.dll
 E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing Store.pdb
-E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\EntityFramework.dll
-E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\EntityFramework.SqlServer.dll
-E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\EntityFramework.xml
-E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\EntityFramework.SqlServer.xml
