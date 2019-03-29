@@ -132,27 +132,16 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\customerController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LogController.cs" />
     <Compile Include="Controllers\ShopController.cs" />
+    <Compile Include="DAL\CustomerInit.cs" />
+    <Compile Include="DAL\ShopContext.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201903011434185_InitialModel.cs" />
-    <Compile Include="Migrations\201903011434185_InitialModel.Designer.cs">
-      <DependentUpon>201903011434185_InitialModel.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201903011454080_InitialModel1.cs" />
-    <Compile Include="Migrations\201903011454080_InitialModel1.Designer.cs">
-      <DependentUpon>201903011454080_InitialModel1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\Configuration.cs" />
-    <Compile Include="Models\address.cs" />
-    <Compile Include="Models\category.cs" />
     <Compile Include="Models\customer.cs" />
-    <Compile Include="Models\moderator.cs" />
-    <Compile Include="Models\order.cs" />
-    <Compile Include="Models\seller.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -368,7 +357,9 @@
     <Content Include="Scripts\theme.js" />
     <Content Include="Views\Home\Login.cshtml" />
     <Content Include="Views\Home\Category.cshtml" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -388,6 +379,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Migrations\" />
     <Folder Include="Views\Register\" />
   </ItemGroup>
   <ItemGroup>
@@ -401,14 +393,14 @@
     <Content Include="Views\Shop\Index.cshtml" />
     <Content Include="Views\Shop\Cart.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201903011434185_InitialModel.resx">
-      <DependentUpon>201903011434185_InitialModel.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201903011454080_InitialModel1.resx">
-      <DependentUpon>201903011454080_InitialModel1.cs</DependentUpon>
-    </EmbeddedResource>
+    <Content Include="Views\Log\RegisterCre.cshtml" />
+    <Content Include="Views\customer\Create.cshtml" />
+    <Content Include="Views\customer\Delete.cshtml" />
+    <Content Include="Views\customer\Details.cshtml" />
+    <Content Include="Views\customer\Edit.cshtml" />
+    <Content Include="Views\customer\Index.cshtml" />
+    <Content Include="Views\Log\LoggedIn.cshtml" />
+    <Content Include="Views\Log\Login.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

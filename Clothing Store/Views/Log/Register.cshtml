@@ -1,4 +1,4 @@
-﻿
+﻿@model Clothing_Store.Models.customer
 @{
     ViewBag.Title = "Register";
     
@@ -39,18 +39,30 @@
                 <div class="col-lg-6">
                     <div class="login_form_inner reg_form">
                         <h3>Create an Account</h3>
-                        <form class="row login_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
+                        @using (Html.BeginForm())
+                        {
                             <div class="col-md-12 form-group">
-                                <input type="text" class="form-control" id="name" name="name" placeholder="Name">
+                                @Html.TextBoxFor(m => m.c_name, new { @class = "form-control", @placeholder = "Customer Name" })
+                                <!-- @*<input type="text"  id="name" name="name" placeholder="Name">*@ -->
                             </div>
+                            <!-- @*<form class="row login_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">*@ -->
                             <div class="col-md-12 form-group">
-                                <input type="email" class="form-control" id="email" name="email" placeholder="Email Address">
+                                @Html.TextBoxFor(m => m.email, new { @class = "form-control", @placeholder = "Email Address" })
+                                <!-- @*<input type="text"  id="name" name="name" placeholder="Name">*@ -->
                             </div>
-                            <div class="col-md-12 form-group">
-                                <input type="text" class="form-control" id="password" name="password" placeholder="Password">
+                            <!--<div class="col-md-12 form-group">
+                            <input type="email" class="form-control" id="email" name="email" placeholder="Email Address">
                             </div>
+        -->
+                            <!--<div class="col-md-12 form-group">-->
                             <div class="col-md-12 form-group">
-                                <input type="password" class="form-control" id="pass" name="pass" placeholder="Confirm password">
+                                @Html.TextBoxFor(m => m.pass, new { @class = "form-control", @placeholder = "Password" })
+                                <!-- @*<input type="text"  id="name" name="name" placeholder="Name">*@ -->
+                            </div>
+                            <!--<input type="text" class="form-control" id="password" name="password" placeholder="Password">
+        </div>-->
+                            <div class="col-md-12 form-group">
+                                @Html.TextBoxFor(m => m.phone, new { @class = "form-control", @placeholder = "Phone" })
                             </div>
                             <div class="col-md-12 form-group">
                                 <div class="creat_account">
@@ -61,7 +73,9 @@
                             <div class="col-md-12 form-group">
                                 <button type="submit" value="submit" class="btn submit_btn">Register</button>
                             </div>
-                        </form>
+
+                            @*</form>*@
+                        }
                     </div>
                 </div>
             </div>

@@ -9,14 +9,16 @@ namespace Clothing_Store.Models
 {
     public class customer
     {
-        [Key]
-        public int c_id { get; set; }
-        public int c_name { get; set; }
-        public int address_id { get; set; }
+        
+        public int ID { get; set; }
+        public string c_name { get; set; }
+        public string email { get; set; }
+        public string pass { get; set; }
         public string phone { get; set; }
+        
     }
-    public class customerDBContext : DbContext
-    {
-        public DbSet<customer> customers { get; set; }
-    }
+    //public class customerDBContext : DbContext
+    //{
+    //    public DbSet<customer> customers { get; set; }
+    //}
 }

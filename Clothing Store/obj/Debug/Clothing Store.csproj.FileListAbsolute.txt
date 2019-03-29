@@ -77,9 +77,7 @@ E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Antlr3.Runtime.pdb
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\System.Diagnostics.DiagnosticSource.xml
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 E:\3.2\SD\Project\Clothing Store\Clothing Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing_Store.Migrations.InitialModel.resources
-E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing_Store.Migrations.InitialModel1.resources
-E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing Store.csproj.GenerateResource.cache
+E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing Store.csprojAssemblyReference.cache
 E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing Store.csproj.CoreCompileInputs.cache
 E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing Store.csproj.CopyComplete
 E:\3.2\SD\Project\Clothing Store\Clothing Store\obj\Debug\Clothing Store.dll
