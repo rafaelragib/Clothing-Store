@@ -21,6 +21,18 @@ namespace Clothing_Store
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
+            routes.MapRoute(
+               name: "Cart",
+               url: "Cart/{action}/{id}",
+               defaults: new { controller = "Cart", action = "Index", id = UrlParameter.Optional }
+           
+             );
+            routes.MapRoute(
+               name: "Shop",
+               url: "Shop/{action}/{id}",
+               defaults: new { controller = "Shop", action = "Index", id = UrlParameter.Optional }
+               );
+
         }
     }
 }

@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Clothing_Store.Models.View_Model.CartVM>
+
+@{
+    ViewBag.Title = "Cart Details";
+}
+<section >
+    <h2>Cart Details</h2>
+    @if (ViewBag.Message != null)
+    {
+        <h3>@ViewBag.Message </h3>
+    }
+    else
+    {
+
+
+        <table class="table">
+            <tr>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Quantity
+                </th>
+                <th>
+                    Price
+                </th>
+                <th>
+                    Image
+                </th>
+                <th>
+
+                </th>
+                <th>
+                    Total
+                </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantity)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        <img src="~/Content/img/favicon.png" />
+                    </td>
+                    <td>
+                        <a href="#" class="incrproduct" data-id="@item.ProductID">+</a>
+                        <a href="#" class="decrproduct" data-id="@item.ProductID">-</a>
+                        <a href="#" class="removeproduct" data-id="@item.ProductID">Remove</a>
+                        @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                        @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                    </td>
+                    <td>
+
+                        @Html.DisplayFor(modelItem => item.Total)
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>$@ViewBag.GrandTotal</td>
+                </tr>
+            }
+
+        </table>
+
+    }
+    </section>

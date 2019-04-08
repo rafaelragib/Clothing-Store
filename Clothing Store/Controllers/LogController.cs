@@ -22,14 +22,15 @@ namespace Clothing_Store.Controllers
         {
             return View();
         }
+       
         [HttpPost]
         public ActionResult Login(customer customer)
         {
             using (ShopContext shopContext = new ShopContext())
             {
                 var usr = shopContext.Customers.Single(u => u.email == customer.email && u.pass == customer.pass);
-                    
-                        if(usr!=null)
+                
+                        if (usr!=null)
                         {
                     Session["ID"] = customer.ID.ToString();
                     Session["email"] = customer.email.ToString();
@@ -67,7 +68,10 @@ namespace Clothing_Store.Controllers
         {
             if(Session["ID"]!=null)
             {
-                return View();
+                using (ShopContext shopContext = new ShopContext()) {
+                    var products = shopContext.Products.ToList();
+                return View(products);
+                }
             }
             else
             {
